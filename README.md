@@ -38,5 +38,7 @@ The objects used in the analysis are:
 
 The model produced an accuracy rate of 78.8%, which exceeds the goal of 75% accuracy. 
 The current models used produced results of close to 79% accuracy, so the models used were very effective. If the results produced less than 75% accuracy, other models would have been considered.
+<img width="346" alt="Deliverable_1_and_2" src="https://user-images.githubusercontent.com/99056132/185770463-9be00120-6706-4e00-865e-87d5c12122d6.png">
+<img width="364" alt="Deliverable_3" src="https://user-images.githubusercontent.com/99056132/185770467-6eebfe71-d265-42b3-af57-551986651f26.png">
 
 
